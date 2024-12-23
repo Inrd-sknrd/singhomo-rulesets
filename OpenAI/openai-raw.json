@@ -1,0 +1,19 @@
+{
+    "version": 2,
+    "rules": [
+        {
+            "domain_suffix": [
+            "chatgpt.com",
+            "gpt3-openai.com",
+            "live.net",
+            "microsoft.com",
+            "oaistatic.com",
+            "oaiusercontent.com",
+            "openai.com",
+            "openai.fund",
+            "openai.org"
+        ]
+    }
+    ]
+  }
+  
